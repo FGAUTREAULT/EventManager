@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Event Manager</string>
+
+    <!-- Navigation Drawer -->
+    <array name="drawer_titles">
+        <item>Upcoming</item>
+        <item>Groups</item>
+        <item>Events</item>
+        <item>People</item>
+        <item>Infos</item>
+    </array>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <!-- Group Activity -->
+    <string name="groupActivity">Group</string>
+
+    <!-- TEMPORARY DATAS -->
+    <string-array name="list_examples">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+    </string-array>
+    <string name="toast_add">ADD</string>
+    <string name="toast_delete">DELETE</string>
+    <string name="toast_search">SEARCH</string>
+    <string name="toast_test">TEST</string>
+
+    <string name="noItems">No item selected</string>
+    <string name="emptyGroup">No groups. <br><br> Please add one up. </br></br></string>
+
+    <!-- Create group -->
+    <string name="creationName">Please enter a name: </string>
+    <string name="create">Create</string>
+    <string name="parameterMandatory">Please input text</string>
+    <string name="createElement">Create</string>
+    <string name="save">Save</string>
+
+
+</resources>
